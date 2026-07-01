@@ -15,7 +15,7 @@ In questa repo raccolgo i progetti sviluppati durante il percorso, con un focus 
 |---|---|---|---|
 | Analisi dei piloti Mondiale F1 | Python (Pandas, EDA, visualizzazione dati) | Analisi esplorativa delle performance dei piloti di Formula 1 | [Vai al progetto](https://github.com/MarcoCadau76/Portfolio/tree/main/progetti/analisi-piloti-f1)|
 | Analisi disastri aerei (1919–2023) | Python (Pandas, EDA) | Analisi esplorativa storica sugli incidenti aerei | [Vai al progetto](https://github.com/MarcoCadau76/Portfolio/tree/main/progetti/analisi-disastri-aerei)
-| Segmentazione clientela | Python (KMeans, PCA, scikit-learn) | Clustering di clienti per profilazione, con selezione del numero ottimale di cluster (elbow/silhouette) | [Vai al progetto](./progetti/segmentazione-clientela) |
+| Segmentazione clientela | Python (KMeans, PCA, scikit-learn) | Clustering di clienti per profilazione, con selezione del numero ottimale di cluster (elbow/silhouette) [Vai al progetto](https://github.com/MarcoCadau76/Portfolio/tree/main/progetti/segmentazione-clientela)
 | Filtro fake news | Python (NLP, TF-IDF, Word2Vec) | Classificazione testi con tecniche di NLP | [Vai al progetto](./progetti/filtro-fake-news) |
 | Analisi vendite catena di abbigliamento | Excel | Analisi delle vendite di una catena di negozi di abbigliamento | [Vai al progetto](./progetti/vendite-abbigliamento-excel) |
 | Regressione lineare su dati casuali | Excel (Statistica) | Applicazione di regressione lineare su dataset generato casualmente | [Vai al progetto](./progetti/regressione-lineare-excel) |
