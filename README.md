@@ -1,5 +1,5 @@
 
-# Portfolio – Data Analysis
+# Portfolio – Data Analysis 
 
 Ciao, sono Marco Cadau. Lavoro nel settore operations in ambito finanziario e sto completando il percorso di **Master Data Analyst** con Profession.AI (Polo Tecnologico Universitario), con l'obiettivo di specializzarmi in analisi dati e BI.
 
