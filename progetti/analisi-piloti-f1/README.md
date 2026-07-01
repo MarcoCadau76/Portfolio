@@ -37,6 +37,9 @@ McLaren: 151
 BMW: 135
 ...
 
+## Note
+Progetto sviluppato come esame del Master Data Analyst (Profession.AI) — valutato e approvato dall'istruttore.
+
 ## File
 
 - [notebook.ipynb](./notebook.ipynb) — notebook completo con codice ed esecuzione
