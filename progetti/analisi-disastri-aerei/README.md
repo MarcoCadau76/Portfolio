@@ -34,6 +34,9 @@ Python, Pandas, Matplotlib (Pyplot)
 
 CSV con lo storico degli incidenti aerei dal 1919 al 2023 (data, tipo velivolo, operatore, vittime, località, nazione, anno).
 
+## Note
+Progetto sviluppato come esame del Master Data Analyst (Profession.AI) — valutato e approvato dall'istruttore.
+
 ## File
 
 - [notebook.ipynb](./notebook.ipynb) — notebook completo con codice, grafici e analisi
