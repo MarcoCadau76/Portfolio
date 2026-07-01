@@ -21,4 +21,4 @@ Power BI Desktop — modello dati, misure DAX, visualizzazioni interattive con f
 
 ## File
 
-- [Progetto_Power_BI_DEF.pbix](./Progetto_Power_BI_DEF.pbix) — file Power BI Desktop completo (apribile con Power BI Desktop gratuito)
+- [Progetto Power BI DEF.pbix](./Progetto%20Power%20BI%20DEF.pbix) — file Power BI Desktop completo (apribile con Power BI Desktop gratuito)
