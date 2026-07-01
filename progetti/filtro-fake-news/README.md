@@ -27,6 +27,7 @@ Due dataset separati (Fake.csv e True.csv) con titoli e testi di notizie, rispet
 ## Note
 
 Il modello è stato esportato in formato `pickle` per un utilizzo successivo (integrazione plug-in), tecnica approfondita autonomamente oltre il programma del corso.
+Progetto sviluppato come esame del Master Data Analyst (Profession.AI) — valutato e approvato dall'istruttore.
 
 ## File
 
