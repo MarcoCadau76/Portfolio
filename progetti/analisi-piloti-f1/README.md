@@ -36,3 +36,7 @@ Ferrari: 172
 McLaren: 151
 BMW: 135
 ...
+
+## File
+
+- [notebook.ipynb](./notebook.ipynb) — notebook completo con codice ed esecuzione
