@@ -19,7 +19,7 @@ In questa repo raccolgo i progetti sviluppati durante il percorso, con un focus 
 | Filtro fake news | Python (NLP, TF-IDF, Word2Vec) | Classificazione testi con tecniche di NLP | [Vai al progetto](https://github.com/MarcoCadau76/Portfolio/tree/main/progetti/filtro-fake-news) |
 | Analisi vendite — Global Superstore | Excel | Analisi delle vendite di una catena di distribuzione multi-categoria (dashboard, pivot, marginalità, clienti) | [Vai al progetto](https://github.com/MarcoCadau76/Portfolio/tree/main/progetti/vendite-global-superstore) |
 | Regressione lineare su dati casuali | Excel (Statistica) | Applicazione di regressione lineare su dataset generato casualmente | [Vai al progetto](https://github.com/MarcoCadau76/Portfolio/tree/main/progetti/regressione-lineare-excel)|
-| Report punti vendita elettronica | Power BI | Report interattivo sui punti vendita di una catena di distribuzione di elettronica | [Vai al progetto](./progetti/report-elettronica-powerbi) |
+| Report punti vendita elettronica | Power BI | Report interattivo sui punti vendita di una catena di distribuzione di elettronica | [Vai al progetto](https://github.com/MarcoCadau76/Portfolio/tree/main/progetti/report-elettronica-powerbi)|
 | Analisi vendite supermercati | Tableau | Dashboard sulle vendite di una catena di supermercati | [Vai al progetto](./progetti/vendite-supermercati-tableau) |
 
 > Le voci sopra sono un indice di partenza: aggiorno i link man mano che carico i notebook e i file.
