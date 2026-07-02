@@ -30,7 +30,7 @@ In questa repo raccolgo i progetti sviluppati durante il percorso, con un focus 
 
 Notebook ed esercizi minori realizzati durante il corso (pratica su singole tecniche, non progetti strutturati).
 
-👉 [Vai alla cartella esercizi](./esercizi-e-snippet)
+👉 [Vai alla cartella esercizi](https://github.com/MarcoCadau76/Portfolio/tree/main/esercizi-e-snippet)
 
 ---
 
