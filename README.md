@@ -21,7 +21,7 @@ In questa repo raccolgo i progetti sviluppati durante il percorso, con un focus 
 | Regressione lineare su dati casuali | Excel (Statistica) | Applicazione di regressione lineare su dataset generato casualmente | [Vai al progetto](https://github.com/MarcoCadau76/Portfolio/tree/main/progetti/regressione-lineare-excel)|
 | Report punti vendita elettronica | Power BI | Report interattivo sui punti vendita di una catena di distribuzione di elettronica | [Vai al progetto](https://github.com/MarcoCadau76/Portfolio/tree/main/progetti/report-elettronica-powerbi)|
 | Analisi vendite supermercati | Tableau | Dashboard sulle vendite di una catena di supermercati | [Vai alla dashboard](https://public.tableau.com/app/profile/marco.cadau1580/viz/ProgettoTableau_17689223690360/OverviewMonitoring)|
-| Analisi clienti banca | SQL (MySQL) | Feature engineering su dati bancari per ML | Vai al progetto |
+| Analisi clienti banca | SQL (MySQL) | Feature engineering su dati bancari per ML | [Vai al progetto](progetti/analisi-clienti-banca/Progetto_banca.sql) |
 
 > Le voci sopra sono un indice di partenza: aggiorno i link man mano che carico i notebook e i file.
 
